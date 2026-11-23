@@ -15,13 +15,12 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "1",
           "date": "2026-11-23",
           "localizedDescription": "Initial release.",
           "downloadURL": "https://github.com/armiko111/SideStore-apps/releases/download/ios-apps/Arev.ipa",
           "size": 9981106
         }
-      ]
-    }
       ]
     }
   ],
