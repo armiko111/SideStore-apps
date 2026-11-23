@@ -21,22 +21,7 @@
           "size": 9981106
         }
       ]
-    },
-    {
-      "name": "armcraCarTV",
-      "bundleIdentifier": "XTL-FQ5B59DJ4L.com.armengasparyan.armcracartv",
-      "developerName": "armcracka",
-      "subtitle": "Experimental CarPlay video app",
-      "localizedDescription": "An experimental application for video streaming with CarPlay.",
-      "iconURL": "https://raw.githubusercontent.com/armiko111/SideStore-apps/main/cartv.png",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "date": "2026-11-23",
-          "localizedDescription": "Experimental release.",
-          "downloadURL": "https://github.com/armiko111/SideStore-apps/releases/download/armcraCarTV/armcraCarTV.ipa",
-          "size": 22468916
-        }
+    }
       ]
     }
   ],
