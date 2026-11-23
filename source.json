@@ -1,0 +1,44 @@
+
+{
+  "name": "armcracka Apps",
+  "identifier": "com.armcracka.appsource",
+  "subtitle": "iOS apps by armcracka",
+  "description": "A collection of iOS applications developed by armcracka.",
+  "apps": [
+    {
+      "name": "armcracka LangLearn",
+      "bundleIdentifier": "com.armengasparyan.arev",
+      "developerName": "armcracka",
+      "subtitle": "Learn Eastern Armenian",
+      "localizedDescription": "An interactive application for learning Eastern Armenian letters and the language.",
+      "iconURL": "https://raw.githubusercontent.com/armiko111/SideStore-apps/main/arev.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-11-23",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://github.com/armiko111/SideStore-apps/releases/download/ios-apps/Arev.ipa",
+          "size": 9981106
+        }
+      ]
+    },
+    {
+      "name": "armcraCarTV",
+      "bundleIdentifier": "XTL-FQ5B59DJ4L.com.armengasparyan.armcracartv",
+      "developerName": "armcracka",
+      "subtitle": "Experimental CarPlay video app",
+      "localizedDescription": "An experimental application for video streaming with CarPlay.",
+      "iconURL": "https://raw.githubusercontent.com/armiko111/SideStore-apps/main/cartv.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-23",
+          "localizedDescription": "Experimental release.",
+          "downloadURL": "https://github.com/armiko111/SideStore-apps/releases/download/armcraCarTV/armcraCarTV.ipa",
+          "size": 22468916
+        }
+      ]
+    }
+  ],
+  "news": []
+}
