@@ -67,11 +67,11 @@ These settings use the values supplied in `SideStoreConfig.txt`. Apply them insi
 
 ## 7. Add the armcracka Apps source and install
 
-1. To get the source link from GitHub, open **armiko111/SideStore-apps → source.json**, tap **Raw**, and copy the address. The address should start with `raw.githubusercontent.com`. [Open source.json on GitHub](https://github.com/armiko111/SideStore-apps/blob/main/source.json)
+1. To get the source link from GitHub, open **armcracka/SideStore-apps → source.json**, tap **Raw**, and copy the address. The address should start with `raw.githubusercontent.com`. [Open source.json on GitHub](https://github.com/armcracka/SideStore-apps/blob/main/source.json)
 2. You can copy the same raw URL here:
 
    ```text
-   https://raw.githubusercontent.com/armiko111/SideStore-apps/main/source.json
+   https://raw.githubusercontent.com/armcracka/SideStore-apps/main/source.json
    ```
 
 3. With **LocalDevVPN connected** and the iPhone on **Wi-Fi**, open **SideStore → Sources → +**. If your version puts **Sources** inside **Browse**, open it from there. Paste the raw URL in the add-source screen and confirm with **Add** or the **✓** button. You should see **armcracka Apps** in your sources. [SideStore source documentation](https://docs.sidestore.io/docs/advanced/app-sources)
