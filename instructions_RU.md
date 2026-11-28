@@ -67,11 +67,11 @@
 
 ## 7. Добавьте источник armcracka Apps и установите приложение
 
-1. Чтобы получить ссылку на источник, откройте на GitHub **armiko111/SideStore-apps → source.json**, нажмите **Raw** и скопируйте адрес. Домен в ссылке должен быть `raw.githubusercontent.com`. [Открыть source.json на GitHub](https://github.com/armiko111/SideStore-apps/blob/main/source.json)
+1. Чтобы получить ссылку на источник, откройте на GitHub **armcracka/SideStore-apps → source.json**, нажмите **Raw** и скопируйте адрес. Домен в ссылке должен быть `raw.githubusercontent.com`. [Открыть source.json на GitHub](https://github.com/armcracka/SideStore-apps/blob/main/source.json)
 2. Ту же ссылку можно скопировать здесь.
 
    ```text
-   https://raw.githubusercontent.com/armiko111/SideStore-apps/main/source.json
+   https://raw.githubusercontent.com/armcracka/SideStore-apps/main/source.json
    ```
 
 3. Подключите **LocalDevVPN** и **Wi-Fi**, затем откройте **SideStore → Sources → +**. Если в вашей версии пункт **Sources** находится во вкладке **Browse**, откройте его оттуда. Вставьте ссылку на исходный файл JSON и подтвердите добавление кнопкой **Add** или **✓**. В списке источников должен появиться **armcracka Apps**. [Документация SideStore об источниках](https://docs.sidestore.io/docs/advanced/app-sources)
