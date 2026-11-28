@@ -11,14 +11,14 @@
       "developerName": "armcracka",
       "subtitle": "Learn Eastern Armenian",
       "localizedDescription": "An interactive application for learning Eastern Armenian letters and the language.",
-      "iconURL": "https://raw.githubusercontent.com/armiko111/SideStore-apps/main//app/arev.png",
+      "iconURL": "https://raw.githubusercontent.com/armcracka/SideStore-apps/main//app/arev.png",
       "versions": [
         {
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-11-23",
           "localizedDescription": "Initial release.",
-          "downloadURL": "https://github.com/armiko111/SideStore-apps/releases/download/ios-apps/Arev.ipa",
+          "downloadURL": "https://github.com/armcracka/SideStore-apps/releases/download/ios-apps/Arev.ipa",
           "size": 9981106
         }
       ]
